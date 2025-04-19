@@ -1,0 +1,3 @@
+repository "Discord SDK Tutorial@Memphis_Game_Developers_org@cloud"
+  path "/"
+    smartbranch "/main"
